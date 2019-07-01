@@ -1,0 +1,11 @@
+{
+  "name": "sandbox-testcafe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kamataryo/sandbox-testcafe.git",
+  "author": "kamataryo <mugil.cephalus+Ciconia.local@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "testcafe": "^1.2.1"
+  }
+}
